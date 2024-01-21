@@ -1,0 +1,76 @@
+{
+    "int": {
+    },
+    "float": {
+        "woman_duration": 0.6,
+        "merge_duration": 0.6,
+        "woman_stay_duration": 1,
+        "final_woman_stay_duration": 2,
+        "board_duration": 0.5,
+        "board_stay_duration": 1.7,
+        "final_board_stay_duration": 3.0,
+        "repair_duration": 0.6,
+        "repair_stay_duration": 1
+    },
+    "string": {
+
+    },
+    "vector2": {
+        "start_woman_position": {
+            "x": -4.8,
+            "y": -0.8
+        },
+        "end_woman_position": {
+            "x": -1.5,
+            "y": -0.7
+        },
+        "start_board_position": {
+            "x": 0,
+            "y": -8
+        },
+        "end_board_position": {
+            "x": 0,
+            "y": -2.40
+        },
+        "start_repair_position": {
+            "x": 0,
+            "y": -8
+        },
+        "end_repair_position": {
+            "x": 0,
+            "y": -2.40
+        },
+
+        "final_woman_begin_position": {
+            "x": -4.8,
+            "y": -0.7
+        },
+        "final_woman_end_position": {
+            "x": -1.2,
+            "y": -0.7
+        },
+
+        "final_board_begin_position": {
+            "x": 0,
+            "y": -8
+        },
+        "final_board_end_position": {
+            "x": 0,
+            "y": -2.40
+        },
+
+        "merge_begin_position": {
+            "x": 6,
+            "y": 0
+        },
+        "merge_end_position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "vector3": {
+    },
+    "vector4": {
+
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "orientation" : "portrait",
+    "variant" : "portrait, landscape",
+    "guiResolution" : {"w": 1080, "h" : 1920 }
+}

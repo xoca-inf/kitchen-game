@@ -1,0 +1,459 @@
+{
+    "images": {
+        "kitchen": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 6.5,
+                "y": 6.5
+            },
+            "order": 1,
+            "material": "sprite"
+        },
+        "boom": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13,
+            "material": "sprite"
+        },
+        "broken_fridge": {
+            "position": {
+                "x": -2.3,
+                "y": 0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.6,
+                "y": 3.42
+            },
+            "order": 12,
+            "material": "blowing"
+        },
+        "broken_sink": {
+            "position": {
+                "x": 1.87555,
+                "y": -1.956801,
+                "z": 0.0
+            },
+            "size": {
+                "x": 2.3,
+                "y": 2.58
+            },
+            "order": 12,
+            "material": "blowing"
+        },
+        "fail": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 6.3,
+                "y": 1.91
+            },
+            "order": 16,
+            "material": "sprite"
+        },
+        "fridge": {
+            "position": {
+                "x": -2.3,
+                "y": 0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.6,
+                "y": 3.42
+            },
+            "order": 12,
+            "material": "sprite"
+        },
+        "repair_kitchen": {
+            "position": {
+                "x": 0.0,
+                "y": -8,
+                "z": 0.0
+            },
+            "size": {
+                "x": 4.0,
+                "y": 1.46
+            },
+            "order": 16,
+            "material": "sprite"
+        },
+        "sink": {
+            "position": {
+                "x": 1.9,
+                "y": -3.5,
+                "z": 0.0
+            },
+            "size": {
+                "x": 2.75,
+                "y": 4.0
+            },
+            "order": 12,
+            "material": "sprite"
+        },
+        "what_happend": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 6.3,
+                "y": 1.91
+            },
+            "order": 16,
+            "material": "sprite"
+        },
+        "win": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 6.3,
+                "y": 1.91
+            },
+            "order": 16,
+            "material": "sprite"
+        },
+        "work_place": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13,
+            "material": "sprite"
+        },
+        "happy": {
+            "position": {
+                "x": -4.8,
+                "y": -3.5,
+                "z": 0.0
+            },
+            "size": {
+                "x": 2.8,
+                "y": 5
+            },
+            "order": 15,
+            "material": "sprite"
+        },
+        "normal": {
+            "position": {
+                "x": -4.8,
+                "y": -3.5,
+                "z": 0.0
+            },
+            "size": {
+                "x": 2.8,
+                "y": 5
+            },
+            "order": 15,
+            "material": "sprite"
+        },
+        "sad": {
+            "position": {
+                "x": -4.8,
+                "y": -3.5,
+                "z": 0.0
+            },
+            "size": {
+                "x": 2.8,
+                "y": 5
+            },
+            "order": 15,
+            "material": "sprite"
+        },
+        "boltorez": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "toporik": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "molotok": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "gaechnii_klyuch": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "gubka_high": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "cveti_light": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "cveti_high": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "kist": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "hand_unclicked": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 0.8,
+                "y": 0.8
+            },
+            "order": 18,
+            "material": "sprite"
+        },
+        "otvertka": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "ploskogubci": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "razvodnoi_klyuch": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "schetka": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "valik": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "vederko": {
+            "position": {
+                "x": 0.0,
+                "y": -2.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "yaschik_closed": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "yaschik_open": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "stameska": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "nabor_shestigrannikov": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "gubka": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14,
+            "material": "sprite"
+        },
+        "flame": {
+            "position": {
+                "x": 1.1,
+                "y": 0.6,
+                "z": 0.0
+            },
+            "size": {
+                "x": 2.0,
+                "y": 2.0
+            },
+            "order": 12,
+            "material": "blowing"
+        }
+    }
+}

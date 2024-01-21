@@ -1,0 +1,364 @@
+{
+    "images": {
+        "kitchen": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 3.55,
+                "y": 3.55
+            },
+            "order": 1
+        },
+        "boom": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13
+        },
+        "broken_fridge": {
+            "position": {
+                "x": -1.27,
+                "y": 0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 0.84,
+                "y": 1.8
+            },
+            "order": 12
+        },
+        "broken_sink": {
+            "position": {
+                "x": 1.02,
+                "y": -1.12,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.33,
+                "y": 1.54
+            },
+            "order": 12
+        },
+        "fail": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13
+        },
+        "fridge": {
+            "position": {
+                "x": -1.27,
+                "y": 0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 0.84,
+                "y": 1.8
+            },
+            "order": 12
+        },
+        "repair_kitchen": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13
+        },
+        "sink": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13
+        },
+        "what_happend": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13
+        },
+        "win": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13
+        },
+        "work_place": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13
+        },
+        "happy": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13
+        },
+        "normal": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 13
+        },
+        "sad": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.4,
+                "y": 2.5
+            },
+            "order": 15
+        },
+        "boltorez": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "toporik": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "molotok": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "gaechnii_klyuch": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "gubka_high": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "cveti_light": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "cveti_high": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "kist": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "otvertka": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "ploskogubci": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "razvodnoi_klyuch": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "schetka": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "valik": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "vederko": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "yaschik_closed": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        },
+        "yaschik_open": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "order": 14
+        }
+    }
+}

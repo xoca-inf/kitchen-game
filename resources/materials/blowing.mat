@@ -1,0 +1,20 @@
+{
+    "vertexFile" : "materials/shaders/sprite.vs",
+    "fragmentFile" : "materials/shaders/blowing.fs",
+    "blending" : true,
+    "params" : {
+        "u_color": {
+            "type": "VEC4",  
+            "data": {        
+                "x": 1, 
+                "y": 1, 
+                "z": 1, 
+                "w": 1
+            }
+        },
+        "time": {
+            "type": "FLOAT",
+            "data": 0.0
+        }
+    }
+}

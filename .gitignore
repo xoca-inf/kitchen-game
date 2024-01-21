@@ -1,0 +1,9 @@
+.cmake
+.build
+.idea
+_deploy
+_cache
+_out
+cmake-build*
+.cache/
+.vs/

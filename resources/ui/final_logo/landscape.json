@@ -1,0 +1,85 @@
+{
+    "buttons": [
+
+
+    ],
+    "labels": [
+
+    ],
+    "imageButtons": [
+
+    ],
+    "images": [
+        {
+            "name": "bg",
+            "path": "textures/background.jpg",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 11.0,
+                "y": 11.5
+            },
+            "order": 1
+        },
+        {
+            "name": "install",
+            "path": "textures/install.png",
+            "position": {
+                "x": 0.75,
+                "y": -0.65,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.3,
+                "y": 0.3
+            },
+            "order": 5
+        },
+        {
+            "name": "tryAgain",
+            "path": "textures/tryAgain.png",
+            "position": {
+                "x": -0.75,
+                "y": -0.65,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1.3,
+                "y": 0.3
+            },
+            "order": 15
+        },
+        {
+            "name": "rays",
+            "path": "textures/rays.png",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 11.0,
+                "y": 11.5
+            },
+            "order": 3
+        },
+        {
+            "name": "man",
+            "path": "textures/man.png",
+            "position": {
+                "x": 0.0,
+                "y": -0.15,
+                "z": 0.0
+            },
+            "size": {
+                "x": 2.0,
+                "y": 2.0
+            },
+            "order": 6
+        }
+
+    ]
+}
